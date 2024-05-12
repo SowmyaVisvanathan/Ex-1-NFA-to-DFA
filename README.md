@@ -293,5 +293,5 @@ char *NFA_TABLE[states][symbols + 1];
 ![image](https://github.com/SowmyaVisvanathan/Ex-1-NFA-to-DFA/assets/119475775/b76a7e2b-48ce-4819-9795-5a8326981cfb)
 
 # RESULT
-The program was sucessfully converted from NFA to DFA.
+Program to convert NFA to DFA has been implemented.
 
